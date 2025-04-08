@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['react-redux'], // This tells Vite to treat `react-redux` as an external dependency
+      external: ['@reduxjs/toolkit'],
     },
   },
 })
