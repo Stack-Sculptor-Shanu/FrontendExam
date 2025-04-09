@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^x.x.x",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^7.0.1",
     "@mui/material": "^7.0.1",
+    "@reduxjs/toolkit": "^x.x.x",
+    "axios": "^1.8.4",
     "chart.js": "^4.4.8",
     "face-api.js": "^0.22.2",
     "framer-motion": "^12.6.3",
